@@ -1,0 +1,76 @@
+
+C:\Users\Arman\PruebaGit>git config --global user.name "Armando"
+
+C:\Users\Arman\PruebaGit>git config --global user.email "A01253219@tec.mx"
+
+C:\Users\Arman\PruebaGit>cd ..
+
+C:\Users\Arman>cd..
+
+C:\Users>cd..
+
+C:\>cd Repositorios
+
+C:\Repositorios>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: EA06-DB5F
+
+ Directorio de C:\Repositorios
+
+05/01/2023  06:41 a. m.    <DIR>          .
+05/01/2023  06:41 a. m.    <DIR>          ..
+05/01/2023  06:41 a. m.    <DIR>          TC1002S202210
+               0 archivos              0 bytes
+               3 dirs  65,972,723,712 bytes libres
+
+C:\Repositorios>cd TC1002S202210
+
+C:\Repositorios\TC1002S202210>cd ..
+
+C:\Repositorios>cd..
+
+C:\>cd Users
+
+C:\Users>cd Arman
+
+C:\Users\Arman>cd Pruebagit
+
+C:\Users\Arman\PruebaGit>mkdir "Actividad 1"
+
+C:\Users\Arman\PruebaGit>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: EA06-DB5F
+
+ Directorio de C:\Users\Arman\PruebaGit
+
+09/01/2023  07:33 a. m.    <DIR>          .
+09/01/2023  07:33 a. m.    <DIR>          ..
+09/01/2023  07:33 a. m.    <DIR>          Actividad 1
+09/01/2023  07:07 a. m.                17 Archivo.txt
+09/01/2023  07:23 a. m.                 0 Archivo2.txt
+               2 archivos             17 bytes
+               3 dirs  65,974,710,272 bytes libres
+
+C:\Users\Arman\PruebaGit>cd "Actidad 1"
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\Arman\PruebaGit>cd Actividad 1
+
+C:\Users\Arman\PruebaGit\Actividad 1>git clone https://github.com/GilHuesca-Tec/TC1002S202210.git
+Cloning into 'TC1002S202210'...
+remote: Enumerating objects: 39, done.
+remote: Total 39 (delta 0), reused 0 (delta 0), pack-reused 39
+Unpacking objects: 100% (39/39), done.
+Updating files: 100% (20457/20457), done.
+
+C:\Users\Arman\PruebaGit\Actividad 1>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: EA06-DB5F
+
+ Directorio de C:\Users\Arman\PruebaGit\Actividad 1
+
+09/01/2023  07:34 a. m.    <DIR>          .
+09/01/2023  07:34 a. m.    <DIR>          ..
+09/01/2023  07:34 a. m.    <DIR>          TC1002S202210
+               0 archivos              0 bytes
+               3 dirs  65,948,626,944 bytes libres
